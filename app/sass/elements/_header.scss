@@ -1,1 +1,20 @@
 @import "../variables";
+
+.col-flex{
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+nav{width: 100%}
+.main-menu{
+  flex: 1;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.search{
+  display: flex;
+  input{
+    di
+  }
+}
