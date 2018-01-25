@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="369be422-505a-40ad-8bce-a874f1800c12" name="Default" comment="" />
+    <ignored path="eg-1.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="eg-1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/sass/elements/_header.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_fonts.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/_fonts.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_variables.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/_variables.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_libs.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/sass/_libs.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.item--bg</find>
+      <find>.indexPageTop--heig</find>
+      <find>close</find>
+      <find>qvestions__tooltip</find>
+      <find>.paginationUl</find>
+      <find>containerMain containerMain--pad</find>
+      <find>h1</find>
+      <find>.qvestions__tooltip</find>
+      <find>impSear</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/custom.js" />
+        <option value="$PROJECT_DIR$/scss/_fonts.scss" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/scss/style.scss" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/app/sass/elements/_sidebar.scss" />
+        <option value="$PROJECT_DIR$/app/Новый текстовый документ.txt" />
+        <option value="$PROJECT_DIR$/app/sass/_bootstrap4-grid.scss" />
+        <option value="$PROJECT_DIR$/app/fonts/onlinefontconverter.com/converted-files/font.css" />
+        <option value="$PROJECT_DIR$/app/sass/elements/_footer.scss" />
+        <option value="$PROJECT_DIR$/app/libs/magnific-popup/dist/magnific-popup.css" />
+        <option value="$PROJECT_DIR$/app/js/input.js" />
+        <option value="$PROJECT_DIR$/app/sass/pages/_pageStickers.scss" />
+        <option value="$PROJECT_DIR$/app/sass/pages/_pageItem.scss" />
+        <option value="$PROJECT_DIR$/app/sass/pages/_pageForm.scss" />
+        <option value="$PROJECT_DIR$/app/pages/pageAbout.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageForm.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageGames.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageItem.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageItem2.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageItems3.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageMask.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageResultSearch.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageSencs.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageStickers.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageAllNevs.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageBots.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageChanel.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageChats.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageItemVideo.html" />
+        <option value="$PROJECT_DIR$/app/pages/pageNew.html" />
+        <option value="$PROJECT_DIR$/app/fonts/font-awesome/css/font-awesome.css" />
+        <option value="$PROJECT_DIR$/app/fonts/font-awesome/scss/_variables.scss" />
+        <option value="$PROJECT_DIR$/app/pages/pageResultSearchNo.html" />
+        <option value="$PROJECT_DIR$/dist/css/style.min.css" />
+        <option value="$PROJECT_DIR$/dist/css/style.css" />
+        <option value="$PROJECT_DIR$/../style.css" />
+        <option value="$PROJECT_DIR$/app/sass/pages/_pageAllNews.scss" />
+        <option value="$PROJECT_DIR$/app/sass/pages/_pageItems3.scss" />
+        <option value="$PROJECT_DIR$/app/sass/pages/index/_indexPage.scss" />
+        <option value="$PROJECT_DIR$/app/sass/pages/_pageResultSearch.scss" />
+        <option value="$PROJECT_DIR$/app/ww.html" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/app/sass/_normalize.scss" />
+        <option value="$PROJECT_DIR$/app/sass/_libs.scss" />
+        <option value="$PROJECT_DIR$/app/js/custom.js" />
+        <option value="$PROJECT_DIR$/app/sass/_fonts.scss" />
+        <option value="$PROJECT_DIR$/app/sass/_variables.scss" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/sass/style.scss" />
+        <option value="$PROJECT_DIR$/app/sass/elements/_header.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sass" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="worldBlog.dev" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Оператор\Desktop\tel.dev\app\sass\pages" />
+      <recent name="C:\Users\Оператор\Desktop\securyti\secur01\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="369be422-505a-40ad-8bce-a874f1800c12" name="Default" comment="" />
+      <created>1502262651272</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502262651272</updated>
+      <workItem from="1502262656520" duration="1222000" />
+      <workItem from="1502264749964" duration="85000" />
+      <workItem from="1502267144646" duration="567000" />
+      <workItem from="1502270237928" duration="27000" />
+      <workItem from="1504613513990" duration="3010000" />
+      <workItem from="1504618508227" duration="54000" />
+      <workItem from="1504697811861" duration="46000" />
+      <workItem from="1505304811468" duration="8403000" />
+      <workItem from="1505369649548" duration="23261000" />
+      <workItem from="1505456001914" duration="24000" />
+      <workItem from="1505459754627" duration="11396000" />
+      <workItem from="1505480610169" duration="1099000" />
+      <workItem from="1505744158335" duration="140000" />
+      <workItem from="1505804008205" duration="195000" />
+      <workItem from="1505806945361" duration="5922000" />
+      <workItem from="1505820885261" duration="57000" />
+      <workItem from="1505821362763" duration="627000" />
+      <workItem from="1506343566869" duration="1358000" />
+      <workItem from="1506346463791" duration="920000" />
+      <workItem from="1506348238179" duration="454000" />
+      <workItem from="1506348946565" duration="649000" />
+      <workItem from="1506413395738" duration="62000" />
+      <workItem from="1506416587790" duration="114000" />
+      <workItem from="1506435874121" duration="104000" />
+      <workItem from="1506494724681" duration="33000" />
+      <workItem from="1507206652323" duration="1633000" />
+      <workItem from="1507209221024" duration="177000" />
+      <workItem from="1509624430892" duration="1183000" />
+      <workItem from="1509625720190" duration="908000" />
+      <workItem from="1509626779012" duration="1786000" />
+      <workItem from="1509631895450" duration="489000" />
+      <workItem from="1509632490571" duration="666000" />
+      <workItem from="1509635421532" duration="202000" />
+      <workItem from="1512381097746" duration="15429000" />
+      <workItem from="1512459636331" duration="11000" />
+      <workItem from="1512480224056" duration="8719000" />
+      <workItem from="1512545346970" duration="73000" />
+      <workItem from="1512547198203" duration="20103000" />
+      <workItem from="1512571542030" duration="4007000" />
+      <workItem from="1512631596273" duration="19349000" />
+      <workItem from="1512656403949" duration="2233000" />
+      <workItem from="1512718009205" duration="1894000" />
+      <workItem from="1512999280530" duration="316000" />
+      <workItem from="1516886328675" duration="779000" />
+      <workItem from="1516893597847" duration="1325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="141111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947916" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32946146" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Новый текстовый документ.txt" />
+    <entry file="file://$PROJECT_DIR$/../Новая папка/css/bootstrap-grid.min.css" />
+    <entry file="file://$PROJECT_DIR$/app/sass/_bootstrap4-grid.scss" />
+    <entry file="file://$PROJECT_DIR$/app/fonts/font.css" />
+    <entry file="file://$PROJECT_DIR$/app/fonts/onlinefontconverter.com/converted-files/font.css" />
+    <entry file="file://$PROJECT_DIR$/app/sass/elements/_footer.scss" />
+    <entry file="file://$PROJECT_DIR$/app/libs/magnific-popup/dist/jquery.magnific-popup.min.js" />
+    <entry file="file://$PROJECT_DIR$/app/libs/magnific-popup/dist/jquery.magnific-popup.js" />
+    <entry file="file://$PROJECT_DIR$/app/js/input.js" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/_pageItem.scss" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/_pageStickers.scss" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/_pageForm.scss" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageGames.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageMask.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageSencs.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageItem.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageItem2.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageChats.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageItemVideo.html" />
+    <entry file="file://$PROJECT_DIR$/app/fonts/font-awesome/css/font-awesome.css" />
+    <entry file="file://$PROJECT_DIR$/app/fonts/font-awesome/scss/_variables.scss" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageAbout.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageAllNevs.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageBots.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageChanel.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageStickers.html" />
+    <entry file="file://$PROJECT_DIR$/dist/css/style.min.css" />
+    <entry file="file://$PROJECT_DIR$/app/libs/magnific-popup/dist/magnific-popup.css" />
+    <entry file="file://$PROJECT_DIR$/app/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/dist/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/../style.css" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageForm.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageNew.html" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/_pageAllNews.scss" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageItems3.html" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/index/_indexPage.scss" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/_pageItems3.scss" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageResultSearch.html" />
+    <entry file="file://$PROJECT_DIR$/app/pages/pageResultSearchNo.html" />
+    <entry file="file://$PROJECT_DIR$/app/ww.html" />
+    <entry file="file://$PROJECT_DIR$/app/sass/pages/_pageResultSearch.scss" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="129" column="86" lean-forward="false" selection-start-line="129" selection-start-column="86" selection-end-line="129" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_normalize.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="446" column="1" lean-forward="false" selection-start-line="446" selection-start-column="1" selection-end-line="446" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_libs.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="26" lean-forward="true" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_fonts.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="39" lean-forward="false" selection-start-line="0" selection-start-column="39" selection-end-line="0" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/sass/elements/_header.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
