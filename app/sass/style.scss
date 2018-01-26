@@ -31,13 +31,24 @@
   max-width: 1920px;
   margin: 0 auto;
 }
+.wrap-content{
+  max-width: 1400px;
+  margin: 0 auto;
+}
 .ul{
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
-
+body{
+  font-size: 18px;
+  font-family: $fo;
+  font-weight: 400;
+  color: black;
+}
+a,input,button,textarea{
+  outline: none;
+}
 //import elements and pages
 
 @import "elements/header";
