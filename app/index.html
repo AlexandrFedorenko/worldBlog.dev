@@ -1,7 +1,10 @@
 <!DOCTYPE html>
-<!--[if lt IE 7]><html lang="ru" class="lt-ie9 lt-ie8 lt-ie7"><![endif]-->
-<!--[if IE 7]><html lang="ru" class="lt-ie9 lt-ie8"><![endif]-->
-<!--[if IE 8]><html lang="ru" class="lt-ie9"><![endif]-->
+<!--[if lt IE 7]>
+<html lang="ru" class="lt-ie9 lt-ie8 lt-ie7"><![endif]-->
+<!--[if IE 7]>
+<html lang="ru" class="lt-ie9 lt-ie8"><![endif]-->
+<!--[if IE 8]>
+<html lang="ru" class="lt-ie9"><![endif]-->
 <!--[if gt IE 8]><!-->
 <html class="no-js" lang="ru">
 <!--<![endif]-->
@@ -19,45 +22,693 @@
 </head>
 <body>
 <!--[if lt IE 8]>
-    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
 <![endif]-->
 
 <div class="wrapper">
-   <header>
-     <div class="wrap-content">
-         <div class="container-fluid">
-             <div class="row row-header">
-                 <div class="col-md-2">
-                     <div class="logo">
-                         <a href="#"><img src="img/Travel..png" alt="logo" class="logo_img"></a>
-                     </div>
-                 </div>
-                 <div class="col-md-8 col-flex">
-                     <nav>
-                         <ul class="main-menu ul">
-                             <li class="main-menu_item main-menu_item--active"><a href="#">Страны</a></li>
-                             <li class="main-menu_item"><a href="#">Города</a></li>
-                             <li class="main-menu_item"><a href="#">Экскурсии</a></li>
-                             <li class="main-menu_item"><a href="#">Гостиницы</a></li>
-                             <li class="main-menu_item"><a href="#">Страховка</a></li>
-                             <li class="main-menu_item"><a href="#">О Нас</a></li>
-                         </ul>
-                     </nav>
-                 </div>
-                 <div class="col-md-2">
-                     <div class="search">
-                         <form action="#" method="post">
-                             <div class="search-wrap">
-                                 <input type="search" class="search_inp" placeholder="Поиск...">
-                                 <button class="search_btn" type="submit"></button>
-                             </div>
-                         </form>
-                     </div>
-                 </div>
-             </div>
-         </div>
-     </div>
-   </header>
+    <header>
+        <div class="wrap-content">
+            <div class="container-fluid">
+                <div class="row row-header">
+                    <div class="col-md-2">
+                        <div class="logo">
+                            <a href="#"><img src="img/Travel..png" alt="logo" class="logo_img"></a>
+                        </div>
+                        <div class="burger-menu">
+                            <div class="burger-click-region">
+                                <span class="burger-menu-piece"></span>
+                                <span class="burger-menu-piece"></span>
+                                <span class="burger-menu-piece"></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-10 col-flex">
+                        <nav>
+                            <ul class="main-menu ul">
+                                <li class="main-menu_item main-menu_item--active"><a href="#">Страны</a></li>
+                                <li class="main-menu_item"><a href="#">Города</a></li>
+                                <li class="main-menu_item"><a href="#">Экскурсии</a></li>
+                                <li class="main-menu_item"><a href="#">Гостиницы</a></li>
+                                <li class="main-menu_item"><a href="#">Страховка</a></li>
+                                <li class="main-menu_item"><a href="#">О Нас</a></li>
+                            </ul>
+                        </nav>
+                        <div class="search">
+                            <form action="#" method="post">
+                                <div class="search-wrap">
+                                    <input type="search" class="search_inp" placeholder="Поиск...">
+                                    <button class="search_btn" type="submit"><i class="fa fa-search"
+                                                                                aria-hidden="true"></i></button>
+                                </div>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+    <section>
+        <div class="title-block">
+            <div class="container-fluid">
+                <div class="wrap-content">
+                    <div class="row ">
+                        <div class="col-lg-6 ">
+                            <div class="title">
+                                <h1 class="title_h1">Путешествуйте с нами!</h1>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 ">
+                            <div class="title-text">
+                                <p class="text title-text_text">
+                                    В мире тысячи прекрасных пляжей и практически невозможно выбрать лучший, ведь у
+                                    каждого человека свои предпочтения. Кому-то нравятся тихие а пляжи, кому-то -
+                                    роскошные с песком. А какой выберете вы?
+                                </p>
+                                <div class="title-text-link">
+                                    <a href="#" class="title-text-link_item">Подробнее</a>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <div class="block-img"></div>
+    <div class="block-slider">
+        <div class="container-fluid">
+            <div class="wrap-content wrap-content--slid-size">
+                <div class="main-slider">
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Экстрим</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img1.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Архитектура</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img2.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Релакс</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img3.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Животные</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Природа</p>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Экстрим</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img1.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Архитектура</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img2.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Релакс</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img3.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Животные</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Природа</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Экстрим</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img1.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Архитектура</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img2.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Релакс</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img3.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Животные</p>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="main-slider_item">
+                        <a href="#" class="wrap-slid">
+                            <div class="main-slider-item_img">
+                                <img src="img/img.png" alt="images">
+                            </div>
+                            <div class="main-slider-item_title">
+                                <p>Природа</p>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <article>
+    <div class="posts">
+        <div class="container-fluid">
+            <div class="wrap-content">
+                <div class="row">
+                    <div class="col-xl-3 col-lg-3">
+                        <div class="posts-img">
+                            <img src="img/post-img.png" alt="imfges" class="posts-img_img">
+                        </div>
+                    </div>
+                    <div class="col-xl-7 col-lg-6">
+                        <div class="posts-item">
+                            <div class="wrap-title-posts">
+                                <h2 class="posts-item_title">01. Европа</h2>
+                                <p><i class="fa fa-angle-down fa-down" aria-hidden="true"></i></p>
+                            </div>
+                            <div class="wrap-post-ul">
+                                <ul class="posts-items ul">
+                                    <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                    <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                    <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                    <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                    <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                    <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                    <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                    <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                    <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                    <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                    <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-xl-2 col-lg-3">
+                        <div class="wrap-country">
+                            <div class="country-img">
+                                <img src="img/country.png" alt="images" class="country-img_img">
+                            </div>
+                            <div class="country-link">
+                                <a href="#" class="country-link_item"><i class="marker"></i>Выбрать на карте</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</article>
+    <article>
+        <div class="posts">
+            <div class="container-fluid">
+                <div class="wrap-content">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-3 order-mobil">
+                            <div class="wrap-country">
+                                <div class="country-img">
+                                    <img src="img/country.png" alt="images" class="country-img_img">
+                                </div>
+                                <div class="country-link">
+                                    <a href="#" class="country-link_item"><i class="marker"></i>Выбрать на карте</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-7 col-lg-6 order-mob-mid">
+                            <div class="posts-item">
+                                <div class="wrap-title-posts">
+                                    <h2 class="posts-item_title">02. Азия</h2>
+                                    <p><i class="fa fa-angle-down fa-down" aria-hidden="true"></i></p>
+                                </div>
+                                <div class="wrap-post-ul">
+                                    <ul class="posts-items ul">
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 order-mob-right">
+                            <div class="posts-img">
+                                <img src="img/post-img.png" alt="imfges" class="posts-img_img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+    <article>
+        <div class="posts">
+            <div class="container-fluid">
+                <div class="wrap-content">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="posts-img">
+                                <img src="img/post-img.png" alt="imfges" class="posts-img_img">
+                            </div>
+                        </div>
+                        <div class="col-xl-7 col-lg-6">
+                            <div class="posts-item">
+                                <div class="wrap-title-posts">
+                                    <h2 class="posts-item_title">01. Европа</h2>
+                                    <p><i class="fa fa-angle-down fa-down" aria-hidden="true"></i></p>
+                                </div>
+                                <div class="wrap-post-ul">
+                                    <ul class="posts-items ul">
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-3">
+                            <div class="wrap-country">
+                                <div class="country-img">
+                                    <img src="img/country.png" alt="images" class="country-img_img">
+                                </div>
+                                <div class="country-link">
+                                    <a href="#" class="country-link_item"><i class="marker"></i>Выбрать на карте</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+    <article>
+        <div class="posts">
+            <div class="container-fluid">
+                <div class="wrap-content">
+                    <div class="row">
+                        <div class="col-xl-2 col-lg-3 order-mobil">
+                            <div class="wrap-country">
+                                <div class="country-img">
+                                    <img src="img/country.png" alt="images" class="country-img_img">
+                                </div>
+                                <div class="country-link">
+                                    <a href="#" class="country-link_item"><i class="marker"></i>Выбрать на карте</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-7 col-lg-6 order-mob-mid">
+                            <div class="posts-item">
+                                <div class="wrap-title-posts">
+                                    <h2 class="posts-item_title">02. Азия</h2>
+                                    <p><i class="fa fa-angle-down fa-down" aria-hidden="true"></i></p>
+                                </div>
+                                <div class="wrap-post-ul">
+                                    <ul class="posts-items ul">
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-3 col-lg-3 order-mob-right">
+                            <div class="posts-img">
+                                <img src="img/post-img.png" alt="imfges" class="posts-img_img">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+    <article>
+        <div class="posts">
+            <div class="container-fluid">
+                <div class="wrap-content">
+                    <div class="row">
+                        <div class="col-xl-3 col-lg-3">
+                            <div class="posts-img">
+                                <img src="img/post-img.png" alt="imfges" class="posts-img_img">
+                            </div>
+                        </div>
+                        <div class="col-xl-7 col-lg-6">
+                            <div class="posts-item">
+                                <div class="wrap-title-posts">
+                                    <h2 class="posts-item_title">05. Австралия и Океания</h2>
+                                    <p><i class="fa fa-angle-down fa-down" aria-hidden="true"></i></p>
+                                </div>
+                                <div class="wrap-post-ul">
+                                    <ul class="posts-items ul">
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Австрия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Албания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Андорра </a></li>
+                                        <li class="posts-items_item"><a href="#"> Англия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Бельгия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Германия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Испания </a></li>
+                                        <li class="posts-items_item"><a href="#"> Шотландия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Швейцария </a></li>
+                                        <li class="posts-items_item"><a href="#"> Финляндия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Норвегия </a></li>
+                                        <li class="posts-items_item"><a href="#"> Исландия </a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-2 col-lg-3">
+                            <div class="wrap-country">
+                                <div class="country-img">
+                                    <img src="img/country.png" alt="images" class="country-img_img">
+                                </div>
+                                <div class="country-link">
+                                    <a href="#" class="country-link_item"><i class="marker"></i>Выбрать на карте</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </article>
+    <section>
+        <div class="news">
+            <div class="title title-center ">
+                <h2 class="title_h2 ">Статьи</h2>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="news-img">
+                            <img src="img/news-img.png" alt="images" class="news-img_img">
+                        </div>
+                        <div class="news-item-title">
+                            <p class="news-item-title_p">Тайны океана</p>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="news-img">
+                            <img src="img/news-img.png" alt="images" class="news-img_img">
+                        </div>
+                        <div class="news-item-title">
+                            <p class="news-item-title_p">Тайны океана</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 </div>
 
 <!--[if lt IE 9]>
@@ -69,7 +720,11 @@
 
 
 <script src="libs/jquery/jquery-3.2.1.min.js"></script>
+<script src="libs/slick/slick.min.js"></script>
 <script src="js/custom.js"></script>
+<script>
+
+</script>
 <!-- Yandex.Metrika counter --><!-- /Yandex.Metrika counter -->
 <!-- Google Analytics counter --><!-- /Google Analytics counter -->
 </body>

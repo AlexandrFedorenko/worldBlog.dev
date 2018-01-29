@@ -3,3 +3,22 @@
 //font
 
 $fo: 'Open Sans', sans-serif;
+
+
+//sprites
+
+//arrov slider
+.arr-left, .arr-right
+{ display: inline-block; background: url('../img/sprite.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.arr-left { background-position: -5px -0px; width: 65px; height: 36px; }
+.arr-right { background-position: -5px -41px; width: 65px; height: 36px; }
+
+
+//sprite marker
+.marker-hover, .marker
+.marker-hover, .marker
+{ display: inline-block; background: url('../img/markers.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.marker-hover { background-position: -5px -0px; width: 22px; height: 31px; }
+.marker { background-position: -5px -36px; width: 22px; height: 31px; }

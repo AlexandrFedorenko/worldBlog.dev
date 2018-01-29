@@ -1,0 +1,145 @@
+@import "../variables";
+
+.posts {
+  border-top: 1px solid #D9D9D9;
+  padding-top: 100px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.posts-img_img {
+  width: 100%;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+.posts-item_title {
+  font-size: 48px;
+  font-weight: 700;
+  color: #000000;
+  padding-bottom: 40px;
+}
+
+.posts-items {
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.posts-items_item {
+  margin: 0 5px;
+  a {
+    line-height: 34px;
+    color: black;
+    text-decoration: underline;
+    transition: color .3s;
+    &:hover {
+      color: #FF3C01;
+      text-decoration: none;
+    }
+  }
+}
+
+.country-img_img {
+  display: block;
+  width: 100%;
+  margin: 0 auto 35px;
+}
+
+.marker {
+  width: 25px;
+  height: 33px;
+  margin-right: 8px;
+  color: white;
+}
+
+.country-link_item {
+  display: flex;
+  width: 100%;
+  height: 60px;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  border-radius: 40px;
+  border: 1px solid #6B6B6B;
+  font-size: 16px;
+  color: #6B6B6B;
+  background: transparent;
+  transition: .3s;
+  &:hover {
+    color: white;
+    border: 1px solid transparent;
+    background: #FF3C01;
+    .marker {
+      background-position: -5px -0px;
+      width: 22px;
+      height: 31px;
+    }
+  }
+}
+.fa-down{
+  display: none;
+}
+//media
+
+@media (max-width: 992px) {
+  .posts-img {
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  .wrap-country {
+    margin: 30px auto 0;
+    max-width: 260px;
+  }
+  .order-mobil{
+    order: 2;
+  }
+  .order-mob-mid{
+    order: 1;
+  }
+  .order-mob-right{
+    order: -1;
+  }
+}
+
+@media (max-width: 768px) {
+  .posts-img,
+  .country-img,
+  .wrap-post-ul,
+  .wrap-country{
+    display: none;
+  }
+  .posts-item_title {
+    font-size: 24px;
+    padding-bottom: 0;
+  }
+  .posts-items_item {
+    margin: 0 3px;
+    a {
+      font-size: 12px;
+    }
+  }
+  .wrap-title-posts{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  .fa-down{
+    display: block;
+    font-size: 40px;
+    cursor: pointer;
+    transition:  .4s;
+  }
+  .fa-act{
+    transform: rotate(-180deg);
+  }
+  .posts{
+    padding-top: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+
+}

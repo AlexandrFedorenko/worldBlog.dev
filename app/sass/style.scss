@@ -1,6 +1,7 @@
 @import "normalize";
 @import "variables";
 @import "libs";
+@import "../fonts/font-awesome/scss/font-awesome.scss";
 
 *::-webkit-input-placeholder{
   color: #666;
@@ -46,12 +47,24 @@ body{
   font-weight: 400;
   color: black;
 }
+.text{
+  font-size: 24px;
+  font-weight: 300;
+  color: #6B6B6B;
+  line-height: 33px;
+}
 a,input,button,textarea{
   outline: none;
+}
+p,h1,h2,h3{
+  margin: 0;
 }
 //import elements and pages
 
 @import "elements/header";
+@import "elements/post";
+@import "elements/news";
+@import "pages/index";
 
 
 
