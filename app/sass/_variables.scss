@@ -22,3 +22,24 @@ $fo: 'Open Sans', sans-serif;
 
 .marker-hover { background-position: -5px -0px; width: 22px; height: 31px; }
 .marker { background-position: -5px -36px; width: 22px; height: 31px; }
+
+
+//icons sprite
+
+.icon5-hover, .icon5, .icon-hover, .icon, .icon3-hover,
+.icon3, .icon2-hover, .icon2, .icon4-hover, .icon4,
+.icon6-hover, .icon6
+{ display: inline-block; background: url('../img/icons.png') no-repeat; overflow: hidden; text-indent: -9999px; text-align: left; }
+
+.icon5-hover { background-position: -5px -0px; width: 75px; height: 45px; }
+.icon5 { background-position: -5px -50px; width: 75px; height: 45px; }
+.icon-hover { background-position: -5px -100px; width: 69px; height: 60px; }
+.icon { background-position: -5px -165px; width: 69px; height: 60px; }
+.icon3-hover { background-position: -5px -230px; width: 68px; height: 43px; }
+.icon3 { background-position: -5px -278px; width: 68px; height: 43px; }
+.icon2-hover { background-position: -5px -326px; width: 56px; height: 56px; }
+.icon2 { background-position: -5px -387px; width: 56px; height: 56px; }
+.icon4-hover { background-position: -5px -448px; width: 55px; height: 54px; }
+.icon4 { background-position: -5px -507px; width: 55px; height: 54px; }
+.icon6-hover { background-position: -5px -566px; width: 52px; height: 59px; }
+.icon6 { background-position: -5px -630px; width: 52px; height: 59px; }

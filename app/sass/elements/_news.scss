@@ -19,5 +19,24 @@
   margin-bottom: 20px;
 }
 .news-item-title_p{
-
+  font-size: 32px;
+  font-weight: 700;
+  color: black;
+  transition: color .3s;
+}
+.news-mar{
+  margin-bottom: 30px;
+  a{
+    text-decoration: none;
+    &:hover{
+      .news-item-title_p{
+        color: #FF3C01;
+      }
+    }
+  }
+}
+.btn-add-news{
+  width: 100%;
+  text-align: center;
+  padding: 20px 0;
 }

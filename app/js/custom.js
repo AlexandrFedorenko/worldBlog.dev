@@ -94,3 +94,24 @@ function openPostMob() {
     $(this).find('.wrap-post-ul').slideToggle();
     $(this).find('.wrap-country').slideToggle();
 }
+
+// button click to up
+$(".btn-up_link").on('click', function (e) {
+    e.preventDefault();
+    var id  = $(this).attr('href'),
+
+        top = $(id).offset().top;
+    $('body,html').animate({scrollTop: top}, 1500);
+});
+
+//animation on scroll
+new WOW().init();
+
+//active filter
+
+$('.items-blog-item').click(setActivFilter);
+
+function setActivFilter() {
+    $(this).toggleClass('act-filter');
+}
+
