@@ -1,0 +1,60 @@
+@import "../variables";
+
+.bkock-about{
+  margin-top: 80px;
+}
+.about-img_img{
+  display: block;
+  width: 100%;
+  max-width: 650px;
+  margin: 0 auto;
+}
+.about-cont_title{
+  font-size: 48px;
+  color: #000000;
+  margin-bottom: 25px;
+}
+.about-cont_text{
+  line-height: 38px;
+  font-size: 24px;
+  color: #030303;
+}
+.about-cont{
+  margin-left: 25px;
+}
+.item-about{
+  margin-bottom: 100px;
+}
+
+
+
+//media
+
+@media  (max-width: 992px){
+  .about-img_img{
+    margin-top: 30px;
+  }
+  .about-img--last{
+    margin-bottom: 0;
+  }
+  .item-about{
+    &:last-child{
+      margin-bottom: 0;
+    }
+  }
+  .order-mob{
+    order: 1;
+  }
+}
+@media  (max-width: 768px){
+  .about-cont_title{
+    font-size: 24px;
+  }
+  .about-cont_text{
+    font-size: 14px;
+    line-height: 22px;
+  }
+  .about-cont{
+    margin-left: 0;
+  }
+}
